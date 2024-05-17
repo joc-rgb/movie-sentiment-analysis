@@ -1,4 +1,5 @@
 ## Movie Review Sentiment Analysis
+The project is about Movie Sentiment Analysis using reviews from the movie “Barbie” on Rotten Tomatoes.
 - Data Collection: The data is collected from Rotten Tomatoes, specifically user reviews for the movie “Barbie.”
 - ETL Process:
     - Extraction: Reviews are extracted from the Rotten Tomatoes API, with URLs stored in API_URL.
